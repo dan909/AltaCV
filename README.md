@@ -6,6 +6,8 @@ v0.1 (Tuesday October 3), by Danny Awty-Carroll (Danny.awty.carroll@gmail.com)
 ## Samples
 
 
+## Attribution
+-Made by LianTze Lim (liantze@gmail.com) using an design from [enhancv.com](https://enhancv.com).
 
 
 ## Requirements and Compilation
